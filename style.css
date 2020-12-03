@@ -46,9 +46,8 @@ h1 {
     text-align: center;
 }
 
-.description {
+#description {
     margin: 0;
-    text-transform: uppercase;
     text-align: center;
 }
 
